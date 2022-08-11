@@ -15,6 +15,7 @@ Project is created with:
 * SpringBoot version: 2.40
 * H2-Database 
 * Swagger UI 
+* Swagger Documentation - http://localhost:8080/swagger-ui
 	
 ## Setup
 To run this project, install it locally using :
